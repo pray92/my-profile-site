@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/redgem92/Desktop/project/public/gymcoding-claude-code/claude-code-mastery/js/**)",
+      "Read(//Users/redgem92/Desktop/project/public/gymcoding-claude-code/claude-code-mastery/styles/**)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git remote:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
+    ],
+	"defaultMode": "plan"
+  },
+  "outputStyle": "Advanced Developer"
+}
